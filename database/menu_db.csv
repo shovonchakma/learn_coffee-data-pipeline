@@ -1,0 +1,6 @@
+item_id,item_name,category,price_usd
+1,Nitro Cold Brew,Cold Coffee,4.75
+2,Madagascar Vanilla Latte,Hot Espresso,5.25
+3,,Hot Espresso,-1.50
+4,Almond Butter Croissant,Bakery,3.50
+5,Caramel Macchiato,Hot Espresso,24.99
